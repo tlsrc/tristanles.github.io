@@ -24,7 +24,7 @@ github_username:  tristanles
 
 # Build settings
 markdown: kramdown
-remote_theme: TaylanTatli/Moon 
+theme: cayman
 plugins:
   - jekyll-feed
 
